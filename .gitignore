@@ -4,6 +4,7 @@
 /.idea/
 /gradle/
 /.DS_Store/
+/out/
 
 # Compiled class file
 *.class
@@ -34,3 +35,4 @@ out
 target
 *.iml
 .idea
+.xml
